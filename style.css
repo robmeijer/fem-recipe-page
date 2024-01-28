@@ -33,7 +33,7 @@ body {
     @media (min-width: 533px) {
         & {
             border-radius: 1.5rem;
-            margin-block: 5rem;
+            margin-block: 7.69rem 7.75rem;
             max-width: min(46rem, 100% - 4rem);
         }
 
